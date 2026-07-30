@@ -1,0 +1,14 @@
+{
+  "published": true,
+  "worldName": "Lukasia",
+  "playerEncrypted": true,
+  "dmLogin": true,
+  "repo": {
+    "owner": "ballardao",
+    "name": "lukasia",
+    "branch": "main"
+  },
+  "dataVersion": "551215ff-3109-486d-8df4-c658b4b102cf",
+  "publishedAt": "2026-07-30T18:35:18.989Z",
+  "publishedFrom": "local"
+}
